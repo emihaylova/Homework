@@ -18,3 +18,4 @@ switch ($var) {
 	echo "Not a valid weekday";
 	break;
 }
+//good homework
